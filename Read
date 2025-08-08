@@ -1,0 +1,30 @@
+السلام عليكم
+
+ده البرنامج عشان ال resize بنعمله الاول
+resizeImg.py
+
+و بعد كدة من البرنامج ده بنعمل ال annotation
+ybat-master.zip
+ ممكن نستخدمه لل annotation
+
+و بيحتاج
+و بيحتاج اسماء الكلاسس دي 
+classes.txt
+
+ txt file for the classes names
+ 
+We can arrange them alphabetically:
+
+adult
+kid
+pet
+
+
+
+و بعد ما بنخلص بنعمل
+ save for the annotation in yolo, coco and yac formates
+بحيث لو احتاجنا اي واحد منهم يكون متاح
+
+
+الصور ال كنت نزلتها عملت لها resize 640 x640
+و ده شكل ال annotation لشوية منهم
